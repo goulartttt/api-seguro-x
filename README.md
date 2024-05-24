@@ -1,4 +1,6 @@
-# api-seguro-x
-Api feita para meu projeto de seguro
+# Api Seguro X
 
-Node.js v18.16.0
+- Api feita para meu projeto de seguro de vida
+- Banco de dados usado foi o MongoDB(NoSQL)
+
+- Node.js v18.16.0
